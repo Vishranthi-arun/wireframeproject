@@ -25,7 +25,7 @@ Save the pages once you're done.
 ![OUTPUT](./BPRD-Evolution.png)
 
 ### Contact Us :
-![OUTPUT](./ContactUS.png)
+![OUTPUT](./contact.png)
 
 ## Result:
 Thus a wire frame is designed for a given website.
